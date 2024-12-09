@@ -2,6 +2,8 @@
 
 This repository contains the necessary info needed to understand how a merkle tree works.
 
+![alt text](image-2.png)
+
 ### Code
 - buildMerkleTree.py -> This file has the code logic to build merkle tree from an array.
   ![alt text](image.png)
